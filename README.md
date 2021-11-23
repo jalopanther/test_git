@@ -1,2 +1,2 @@
 # test_git
-just for testing purposes...
+just for testing purposes.
